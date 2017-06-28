@@ -22,3 +22,15 @@ h3 {
   font-family: fantasy;
   font-size: 30px;
 }
+
+.first {
+  background-color: tomato;
+}
+
+.second {
+  background-color: honeydew;
+}
+
+.third {
+  background-color: rebeccapurple;
+}
